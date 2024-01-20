@@ -12,10 +12,6 @@ Translate your number from decimal to binary, octal and hexadecimal
 
 - **Clipboard Integration:** Easily copy translated numbers to the clipboard.
 
-## Technologies Used
-
-- JavaFX: The project is built using JavaFX, a powerful framework for building interactive and visually appealing Java applications.
-
 ## Screenshots/Demo
 
 ![Binary calcuzlator](Binary/src/main/resources/com/example/binary/images/photo.png)
